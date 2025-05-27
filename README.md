@@ -15,3 +15,4 @@ This comprehensive data engineering project includes:
 - ETL Pipeline Developer
 - Data Modeling
 - Data Analytics
+![data_architecture](https://github.com/user-attachments/assets/8ff65193-0354-4e7a-b3e2-5cf56030326e)
