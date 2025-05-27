@@ -9,9 +9,9 @@ This comprehensive data engineering project includes:
 
 🎯 This project demonstrates expertise in:
 
-. SQL Development
-. Data Architect
-. Data Engineering
-. ETL Pipeline Developer
-. Data Modeling
-. Data Analytics
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modeling
+- Data Analytics
