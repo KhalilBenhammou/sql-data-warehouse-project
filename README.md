@@ -1,8 +1,8 @@
 # 📖 Project Overview
 This comprehensive data engineering project includes:
 
-**1. Data Warehouse Architecture:** Building a cutting-edge data warehouse leveraging the Medallion Architecture framework with Bronze, Silver, and Gold tier implementations.
+**1. Data Warehouse Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 
 **2. ETL Pipeline Development:** Implementing robust extract, transform, and load processes to migrate data seamlessly from various source systems into the centralized warehouse.
 
-**3. Advanced Data Modeling:** Constructing optimized fact and dimension table structures specifically designed for high-performance analytical workloads.
+**3. Advanced Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
